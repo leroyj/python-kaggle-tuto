@@ -2,4 +2,4 @@
 
 ## Linear regression
 
-![Linear Regression Dynamic Computation](Linear Regression Dynamic Computation "Linear Regression Dynamic Computation")
+![Linear Regression Dynamic Computation](linear_regression_animation.gif "Linear Regression Dynamic Computation")
